@@ -1,0 +1,11 @@
+INFO  time: initialize in 1.22s
+WARN  no build tool detected in workspace 'c:\Sites\alpha-blog'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Aug 16, 2019 5:35:49 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+INFO  shutting down Metals
+INFO  time: initialize in 1.02s
+WARN  no build tool detected in workspace 'c:\Sites\alpha-blog'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
+INFO  time: initialize in 1.03s
+WARN  no build tool detected in workspace 'c:\Sites\alpha-blog'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
