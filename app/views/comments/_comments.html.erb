@@ -3,9 +3,7 @@
 <% @article.comments.each do |comment| %>
     <div class=well>
         <p>
-
             <%= comment.body %>
-
             <small>
                 (Commented by:
                 <%= link_to comment.user.username, user_path(comment.user)  %>),
